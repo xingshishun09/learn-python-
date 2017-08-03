@@ -1,2 +1,2 @@
 # learn-python-
-pythonfrom-liao
+python-from-liao
